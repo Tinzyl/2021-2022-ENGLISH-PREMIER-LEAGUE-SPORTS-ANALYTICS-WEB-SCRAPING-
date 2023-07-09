@@ -1,9 +1,9 @@
-### TEAM MEMBERS - 
+### TEAM MEMBERS
 * **Tinotenda Mhlanga**
 * **Sohum Waikar**
 * **Clarke Criddell**
   
-### Supervisor -
+### Supervisor
 * **Mor Haziza**
 
 ### Description
